@@ -338,3 +338,9 @@ footer {
     grid-template-columns: 1fr 1fr;
   }
 }
+
+@media (height <= 400px) {
+  header {
+    gap: 50px;
+  }
+}
