@@ -276,7 +276,7 @@ footer {
 
 @media (width <= 1110px) {
   .header__title {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   .gallery {
@@ -309,7 +309,7 @@ footer {
   }
 
   .gallery__box {
-    padding: 100px;
+    padding: 100px 40px;
   }
 
   .testimonials {
